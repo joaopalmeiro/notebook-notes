@@ -32,7 +32,8 @@ if "DEEPNOTE_PROJECT_ID" in os.environ and "DEEPNOTE_PROJECT_OWNER_ID" in os.env
 
 #### References
 
-- [Pre-installed packages](https://docs.deepnote.com/environment/pre-installed-packages) documentation.
+- [Pre-installed packages](https://docs.deepnote.com/environment/pre-installed-packages) documentation page.
+- [Python requirements](https://docs.deepnote.com/environment/python-requirements) documentation page.
 
 ## Notes
 
