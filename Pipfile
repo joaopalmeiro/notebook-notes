@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 black = {extras = ["jupyter"], version = "*"}
 isort = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
