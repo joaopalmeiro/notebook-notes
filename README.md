@@ -4,7 +4,7 @@ Personal notes on computational notebooks and such platforms.
 
 ## Resources
 
-- [Data Science Notebooks](https://datasciencenotebook.org/) website.
+- [Data Science Notebooks](https://datasciencenotebook.org/) website
 
 ## Snippets
 
