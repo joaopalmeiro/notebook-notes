@@ -1,3 +1,2 @@
-formatter.py
-.venv/
-demos/.ipynb_checkpoints
+.DS_Store
+.ipynb_checkpoints/

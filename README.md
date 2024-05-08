@@ -1,6 +1,6 @@
 # notebook-notes
 
-Personal notes on Jupyter notebooks and other computational notebook platforms.
+Personal notes on computational notebooks and such platforms.
 
 ## Resources
 
@@ -19,7 +19,7 @@ if "COLAB_GPU" in os.environ:
 
 #### References
 
-- [Test if notebook is running on Google Colab](https://stackoverflow.com/questions/53581278/test-if-notebook-is-running-on-google-colab) thread.
+- [Test if notebook is running on Google Colab](https://stackoverflow.com/questions/53581278/test-if-notebook-is-running-on-google-colab) thread
 
 ### Install packages if on Deepnote
 
@@ -32,10 +32,5 @@ if "DEEPNOTE_PROJECT_ID" in os.environ and "DEEPNOTE_PROJECT_OWNER_ID" in os.env
 
 #### References
 
-- [Pre-installed packages](https://docs.deepnote.com/environment/pre-installed-packages) documentation page.
-- [Python requirements](https://docs.deepnote.com/environment/python-requirements) documentation page.
-
-## Notes
-
-- `export PIPENV_VENV_IN_PROJECT=1 && pipenv install --python 3.7`.
-- `pipenv install` + `pipenv run jupyter lab` + `pipenv run black . --verbose`.
+- [Pre-installed packages](https://docs.deepnote.com/environment/pre-installed-packages) documentation page
+- [Python requirements](https://docs.deepnote.com/environment/python-requirements) documentation page
