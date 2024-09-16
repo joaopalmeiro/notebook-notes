@@ -1,6 +1,20 @@
 # Notes
 
 - https://github.com/pypa/pipfile
+- https://plutojl.org/:
+  - https://github.com/fonsp/Pluto.jl
+- https://pieces.app/:
+  - https://github.com/pieces-app/jupyter-pieces
+  - https://pieces.app/plugins/jupyterlab
+  - https://docs.pieces.app/extensions-plugins/jupyterlab
+  - https://docs.pieces.app/installation-getting-started/pieces-os
+  - https://docs.pieces.app/installation-getting-started/what-am-i-installing
+- https://moonglow.ai/:
+  - https://www.youtube.com/watch?v=Bf-xTsDT5FQ
+- https://github.com/comet-ml/kangas
+- https://elicit.com/
+- https://www.zerve.ai/
+- https://curvenote.com/
 
 ## Commands
 
