@@ -6,6 +6,7 @@
   - https://pypi.org/project/pretzelai/
   - https://github.com/pretzelai/pretzelai?tab=readme-ov-file#quick-start
   - It supports Ollama
+  - https://withpretzel.com/
 
 ## Commands
 
