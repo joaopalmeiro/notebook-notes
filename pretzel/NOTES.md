@@ -4,6 +4,8 @@
 - Pretzel:
   - https://github.com/pretzelai/pretzelai
   - https://pypi.org/project/pretzelai/
+  - https://github.com/pretzelai/pretzelai?tab=readme-ov-file#quick-start
+  - It supports Ollama
 
 ## Commands
 
@@ -24,5 +26,9 @@ echo "\nPython directory:" && uv python dir
 ### Clean slate
 
 ```bash
-rm -rf .mypy_cache/ .venv/
+rm -rf .ipynb_checkpoints/ .mypy_cache/ .pretzel/ .venv/
+```
+
+```bash
+rm -rf .ipynb_checkpoints/ .mypy_cache/ .pretzel/ .venv/ *.ipynb
 ```

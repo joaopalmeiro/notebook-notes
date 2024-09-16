@@ -43,7 +43,7 @@ uv pip tree --show-version-specifiers --strict
 ```
 
 ```bash
-
+pretzel lab
 ```
 
 ```bash
