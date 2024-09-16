@@ -43,7 +43,15 @@ uv pip tree --show-version-specifiers --strict
 ```
 
 ```bash
+jupyter server extension list
+```
 
+```bash
+jupyter labextension list
+```
+
+```bash
+jupyter lab
 ```
 
 ```bash

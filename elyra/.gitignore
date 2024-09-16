@@ -1,3 +1,11 @@
 .DS_Store
-.venv/
+.ipynb_checkpoints/
 .mypy_cache/
+.venv/
+
+# https://github.com/jupyter-lsp/jupyterlab-lsp/blob/v4.3.0/python_packages/jupyter_lsp/jupyter_lsp/manager.py#L79-L86
+.virtual_documents/
+
+*.ipynb
+*.pipeline
+*.r
