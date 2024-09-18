@@ -6,7 +6,7 @@
 ## Commands
 
 ```bash
-yt-dlp --format "bestvideo*" "https://youtu.be/f3UfVX4_PD4?si=3eBnQBA0ciqy6MW6"
+yt-dlp --format "bestvideo*" "https://www.youtube.com/watch?v=f3UfVX4_PD4"
 ```
 
 ```bash
