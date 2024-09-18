@@ -17,6 +17,10 @@ ffmpeg -ss 00:08:23 -i "Tanya Rai - Introducing Bento： Jupyter Notebooks @ Fac
 ffmpeg -ss 00:08:31 -i "Tanya Rai - Introducing Bento： Jupyter Notebooks @ Facebook ｜ JupyterCon 2020 [f3UfVX4_PD4].mp4" -vframes 1 snippets.png
 ```
 
+```bash
+oxipng -o 4 --strip safe notebook.png snippets.png
+```
+
 ## References
 
 - https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/
