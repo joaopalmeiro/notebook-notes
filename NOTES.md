@@ -15,6 +15,13 @@
 - https://elicit.com/
 - https://www.zerve.ai/
 - https://curvenote.com/
+- https://danmackinlay.name/notebook/jupyter.html
+- https://starboard.gg/:
+  - https://github.com/gzuidhof/starboard-notebook
+- https://www.typecell.org/:
+  - https://github.com/TypeCellOS/TypeCell
+  - https://www.blocknotejs.org/
+  - https://github.com/TypeCellOS/BlockNote
 
 ## Commands
 
